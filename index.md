@@ -10,9 +10,9 @@ title: Home
 [My CV is available here.](cv/bartikcv.pdf)
 
 ### Research Agenda
-1.  [labor market research](papers.html#labor)
-2.  [urban and spatial economics research](papers.html#urban)
-3.  [cash transfer research](papers.html#cash)
+1.  [labor markets](papers.html#labor)
+2.  [urban and spatial economics](papers.html#urban)
+3.  [cash transfers](papers.html#cash)
 
 ### New Papers!
 -  [The Impact of Unconditional Cash Transfers on Consumption and Household Balance Sheets: Experimental Evidence from Two US States](papers/ORUS_Consumption.pdf) (with Elizabeth Rhodes, David E. Broockman, Patrick K. Krause, Sarah Miller, and Eva Vivalt)
