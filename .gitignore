@@ -1,0 +1,12 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+vendor
+.DS_Store
+cv.log
+cv.aux
+*.aux
+*.synctex.gz
+.vscode/settings.json
