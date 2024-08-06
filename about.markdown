@@ -1,18 +1,17 @@
 ---
-layout: page
+layout: base
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- I'm an economist at UIUC who studies labor markets, urban economics, and cash transfers.  I live in Illinois with my wife and two children.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### About this site
+
+- I made this site using the base Jekyll theme called Minima. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/).  
+- It is hosted on github pages.
+- I also used some ideas from [Jonathan McGlone](https://github.com/jmcglone/jmcglone.github.io) and [Paul Goldsmith-Pinkham](https://github.com/paulgp/paulgp.github.io)
 
 
-[jekyll-organization]: https://github.com/jekyll
