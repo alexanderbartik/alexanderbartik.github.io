@@ -7,8 +7,8 @@ title: Home
 ### Assistant Professor of Economics <br> University of Illinois at Urbana-Champaign
 
 ### CV and Google Scholar
-[My CV is available here.](cv/bartikcv.pdf)
-[Google Scholar Page](https://scholar.google.com/citations?hl=en&user=aAKRF1YAAAAJ&view_op=list_works&gmla=AETOMgF8fjTpPiPKB2pENmF7zTwz7psoO7MHQvWS3AgbziIewa54uo-X3PAcogHNzcW9aipvohWL)
+- [My CV is available here.](cv/bartikcv.pdf)
+- [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=aAKRF1YAAAAJ&view_op=list_works&gmla=AETOMgF8fjTpPiPKB2pENmF7zTwz7psoO7MHQvWS3AgbziIewa54uo-X3PAcogHNzcW9aipvohWL)
 
 ### Research Agenda
 1.  [labor markets](papers.html#labor)
