@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About me
 
-- I'm an economist at UIUC who studies labor markets, urban economics, and cash transfers.  I live in Illinois with my wife and two children.
+- I'm an economist at UIUC who studies labor markets, urban economics, and cash transfers.  I live in Illinois with my wife and three children.
 
 ### About this site
 
