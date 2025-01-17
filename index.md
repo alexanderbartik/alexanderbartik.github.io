@@ -14,7 +14,7 @@ title: Home
 -  [The Causal Effects of Income on Political Attitudes and Behavior: A Randomized Field Experiment](https://www.nber.org/papers/w33214) (with David E. Broockman, Elizabeth Rhodes, Karina Dotson, Sarah Miller, Patrick K. Krause and Eva Vivalt)
 -  [The Impact of Unconditional Cash Transfers on Consumption and Household Balance Sheets: Experimental Evidence from Two US States](papers/ORUS_Consumption.pdf) (with Elizabeth Rhodes, David E. Broockman, Patrick K. Krause, Sarah Miller, and Eva Vivalt)
 -  [The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States ](papers/ORUS_Employment.pdf) (with Eva Vivalt, Elizabeth Rhodes, David E. Broockman, and Sarah Miller)
--  [Does Income Affect Health? Evidence from a Randomized Controlled Trial of a Guaranteed Income](papers/ORUS_Health.pdf) (with Sarah Miller, Elizabeth Rhodes, David E. Broockman, Patrick K. Krause, and Eva Vivalt )
+-  [Does Income Affect Health? Evidence from a Randomized Controlled Trial of a Guaranteed Income](papers/ORUS_Health.pdf) (with Sarah Miller, Elizabeth Rhodes, David E. Broockman, Patrick K. Krause, and Eva Vivalt; revision requested at the *American Economic Review*).
 -  [The Costs of Housing Regulation: Evidence From
 Generative Regulatory Measurement](papers/GenRegMeasure_Sep142024.pdf) (with Arpit Gupta and Dan Milo)
 
