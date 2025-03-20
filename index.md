@@ -16,7 +16,7 @@ title: Home
 -  [The Employment Effects of a Guaranteed Income: Experimental Evidence from Two U.S. States ](papers/ORUS_Employment.pdf) (with Eva Vivalt, Elizabeth Rhodes, David E. Broockman, and Sarah Miller; revision requested at the *Quarterly Journal of Economics*).)
 -  [Does Income Affect Health? Evidence from a Randomized Controlled Trial of a Guaranteed Income](papers/ORUS_Health.pdf) (with Sarah Miller, Elizabeth Rhodes, David E. Broockman, Patrick K. Krause, and Eva Vivalt; revision requested at the *American Economic Review*).
 -  [The Costs of Housing Regulation: Evidence From
-Generative Regulatory Measurement](papers/GenRegMeasure_Sep142024.pdf) (with Arpit Gupta and Dan Milo)
+Generative Regulatory Measurement](papers/GenRegMeasure_BartikGuptaMilo_20Mar2025.pdf) (with Arpit Gupta and Dan Milo; Under Review)
 
 ### Contact
 - Email: abartik@illinois.edu
