@@ -13,7 +13,7 @@ title: Home
 ### New Papers!
 -  [The Impact of Unconditional Cash Transfers on Parenting and Children](https://www.nber.org/papers/w34040) (with Patrick Krause, Elizabeth Rhodes, Sarah Miller, David Broockman, and Eva Vivalt; July 2025)
 -  [The Costs of Housing Regulation: Evidence From
-Generative Regulatory Measurement](papers/GenRegMeasure_BartikGuptaMilo_20Mar2025.pdf) (with Arpit Gupta and Dan Milo; March 2025)
+Generative Regulatory Measurement](papers/GenRegMeasure_BartikGuptaMilo_Aug2025.pdf) (with Arpit Gupta and Dan Milo; August 2025; Under Review)
 
 ### Contact
 - Email: abartik@illinois.edu
