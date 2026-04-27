@@ -10,7 +10,8 @@ title: Home
 - [My CV is available here.](cv/bartikcv.pdf)
 - [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=aAKRF1YAAAAJ&view_op=list_works&gmla=AETOMgF8fjTpPiPKB2pENmF7zTwz7psoO7MHQvWS3AgbziIewa54uo-X3PAcogHNzcW9aipvohWL)
 
-### New Papers!
+### New Research
+-  What Have We Learned from Randomized Controlled Trials of Guaranteed Income? (with Eva Vivalt, Andrew Goodman-Bacon, and Elizabeth Rhodes; January 2026), Revise and Resubmit at the 
 -  [The Impact of Unconditional Cash Transfers on Parenting and Children](https://www.nber.org/papers/w34040) (with Patrick Krause, Elizabeth Rhodes, Sarah Miller, David Broockman, and Eva Vivalt; July 2025)
 -  [The Costs of Housing Regulation: Evidence From
 Generative Regulatory Measurement](papers/GenRegMeasure_BartikGuptaMilo_Aug2025.pdf) (with Arpit Gupta and Dan Milo; August 2025; Under Review)
