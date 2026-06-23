@@ -32,6 +32,7 @@ header_pages:
   - cv.md
   - papers.html
   - advising.html
+  - teaching.html
   - about.markdown
 
 # Build settings
