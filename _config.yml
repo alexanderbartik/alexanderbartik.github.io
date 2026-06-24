@@ -21,9 +21,10 @@
 title: Alex Bartik
 email: abartik@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Research website for economist Alex Bartik.
+  Alex Bartik is an Assistant Professor of Economics at the University of Illinois Urbana-Champaign, specializing in labor economics, public finance, and urban economics.
+logo: /bartik_circle.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.alexbartik.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alexbartik
 github_username:  alexanderbartik
 
@@ -39,6 +40,7 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   
 
 # Exclude from processing.
