@@ -6,7 +6,7 @@ title: Home
 
 I am an Assistant Professor of Economics at the University of Illinois at Urbana-Champaign. I study how new policies, tools, and technologies affect people, labor markets, and cities. My research combines novel data from field experiments, surveys, and new measurement approaches with economic theory.
 
-<a href="cv/bartikcv.pdf" class="btn-link">CV PDF</a><a href="https://scholar.google.com/citations?hl=en&user=aAKRF1YAAAAJ&view_op=list_works&gmla=AETOMgF8fjTpPiPKB2pENmF7zTwz7psoO7MHQvWS3AgbziIewa54uo-X3PAcogHNzcW9aipvohWL" class="btn-link">Google Scholar</a>
+<a href="cv/bartikcv.pdf" class="btn-link">CV PDF</a><a href="https://scholar.google.com/citations?hl=en&user=aAKRF1YAAAAJ&view_op=list_works&gmla=AETOMgF8fjTpPiPKB2pENmF7zTwz7psoO7MHQvWS3AgbziIewa54uo-X3PAcogHNzcW9aipvohWL" class="btn-link">Google Scholar</a><a href="statements/ResearchStatement_public.pdf" class="btn-link">Research Statement</a><a href="statements/TeachingStatement_public.pdf" class="btn-link">Teaching Statement</a>
 
 ### Recent Research
 -  [What Have We Learned from Randomized Controlled Trials of Guaranteed Income?](https://alexbartik.com)  
