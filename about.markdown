@@ -6,17 +6,10 @@ permalink: /about/
 
 ## About me
 
-- I'm an Assistant Professor of Economics at the University of Illinois at Urbana-Champaign. I study how new policies, tools, and technologies impact people, labor markets, and cities. Much of my research involves collecting novel data through field experiments, surveys, and new measurement approaches. 
-- I received my PhD in economics from MIT in 2017 and my BA from Yale in 2008.  
-- Before graduate school, I worked at Innovations for Poverty Action on projects in Peru, the Philippines, Malawi, and Uganda and at The Hamilton Project at the Brookings Institution.
-- I graduated high school from Kalamazoo Loy Norrix and the Kalamazoo Area Math and Science Center
-- I live in Illinois with my wife and three children.
+I'm an Assistant Professor of Economics at the University of Illinois at Urbana-Champaign. I study how new policies, tools, and technologies impact people, labor markets, and cities. Much of my research involves collecting novel data through field experiments, surveys, and new measurement approaches.
 
+I received my PhD in economics from MIT in 2017 and my BA from Yale in 2008. Before graduate school, I worked at Innovations for Poverty Action on projects in Peru, the Philippines, Malawi, and Uganda and at The Hamilton Project at the Brookings Institution. I graduated high school from Kalamazoo Loy Norrix and the Kalamazoo Area Math and Science Center.
 
-### About this site
-
-- I made this site using the base Jekyll theme called Minima. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/).  
-- It is hosted on github pages.
-- I also used some ideas from [Jonathan McGlone](https://github.com/jmcglone/jmcglone.github.io) and [Paul Goldsmith-Pinkham](https://github.com/paulgp/paulgp.github.io)
+I now live in Illinois with my wife and three children.
 
 
