@@ -2,25 +2,11 @@
 layout: base
 ---
 
-<div class="row marketing">
-	<div class="col-sm-4">
-	
-
-            <img src="{{ '/bartik_circle.jpg' | relative_url }}" width="250" height="250" alt="Alex Bartik">
-
-	</div>
-
-
-<div class="col-sm-8 home">
-  {%- if page.title -%}
-
-  {%- endif -%}
-
-
-
-
-  {{ content }}
-
-
-</div>
+<div style="display: flex; gap: 2em; align-items: flex-start;">
+  <div style="flex: 0 0 auto;">
+    <img src="{{ '/bartik_circle.jpg' | relative_url }}" width="160" height="160" alt="Alex Bartik">
+  </div>
+  <div style="flex: 1; min-width: 0;">
+    {{ content }}
+  </div>
 </div>
