@@ -20,4 +20,4 @@ I regularly involve Illinois students in my research; please get in touch.
 -  [The Costs of Housing Regulation: Evidence From Generative Regulatory Measurement](papers/GenRegMeasure_BartikGuptaMilo_Aug2025.pdf)  
    with Arpit Gupta and Dan Milo; August 2025.  
    <a href="https://www.thezoningproject.org/" class="btn-link">→ Explore the zoning data</a>
--  [→ All papers](papers.html)
+-  [See all papers](papers.html)
