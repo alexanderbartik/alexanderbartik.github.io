@@ -21,3 +21,6 @@ I regularly involve Illinois students in my research; please get in touch.
    with Arpit Gupta and Dan Milo; August 2025.  
    <a href="https://www.thezoningproject.org/" class="btn-link">→ Explore the zoning data</a>
 -  [See all papers](papers.html)
+
+### 2027 Resek Conference
+I am co-organizing the 2027 Lois and Robert Resek Conference on Social Protection and Cash Transfers at the University of Illinois (April 2, 2027) — [paper submissions for short talks are due November 1, 2026](resek2027.html).
