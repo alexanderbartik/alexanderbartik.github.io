@@ -13,7 +13,7 @@ I regularly involve Illinois students in my research; please get in touch.
 <a href="cv/bartikcv.pdf" class="btn-link">CV PDF</a><a href="https://scholar.google.com/citations?hl=en&user=aAKRF1YAAAAJ&view_op=list_works&gmla=AETOMgF8fjTpPiPKB2pENmF7zTwz7psoO7MHQvWS3AgbziIewa54uo-X3PAcogHNzcW9aipvohWL" class="btn-link">Google Scholar</a><a href="statements/ResearchStatement_public.pdf" class="btn-link">Research Statement</a><a href="statements/TeachingStatement_public.pdf" class="btn-link">Teaching Statement</a>
 
 ### Recent Research
--  [Income Shocks and Intrahousehold Dynamics: Evidence from a Guaranteed Income Experiment](papers/ORUS_Intrahousehold.pdf)  
+-  [Income Shocks and Intrahousehold Dynamics: Evidence from a Guaranteed Income Experiment](papers/Rhodes-et-al-ORUS-intrahousehold.pdf)  
    with Elizabeth Rhodes, David Broockman, Eva Vivalt, Patrick Krause, and Sarah Miller; August 2026.
 -  [What Have We Learned from Randomized Controlled Trials of Guaranteed Income?](https://alexbartik.com)  
    with Eva Vivalt, Andrew Goodman-Bacon, Sarah Miller, and Elizabeth Rhodes; January 2026. Revise and resubmit at the *Journal of Economic Literature*.   
